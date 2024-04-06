@@ -1,0 +1,15 @@
+.searchBox {
+  margin: 0 0 50px 0;
+  font-size: 18px;
+  width: 400px;
+  flex-direction: column;
+}
+.searchBox label {
+  font-size: 24px;
+}
+.seachInput {
+  width: 480px;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 24px;
+}
