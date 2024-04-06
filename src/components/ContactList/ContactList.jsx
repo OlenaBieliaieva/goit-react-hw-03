@@ -1,4 +1,4 @@
-import { Contact } from "../ContactList/Contact";
+import { Contact } from "../Contact/Contact";
 import css from "../ContactList/ContactList.module.css";
 import React from "react";
 
